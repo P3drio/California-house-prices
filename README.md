@@ -1,2 +1,2 @@
 # California-house-prices
-A work from ML course
+Regional house's price analysis
